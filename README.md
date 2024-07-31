@@ -2,14 +2,12 @@
 # Overview:
 Developed a Book Recommendation System utilizing various Python libraries, advanced data analysis techniques, and AI-based collaborative filtering methods to provide personalized book recommendations.
 
-# Key Features:
-
 # Data Analysis and Processing:
 
-# Data Collection:
+## Data Collection:
 Gathered data from various sources to build a comprehensive dataset of books and user interactions.
 
-# Data Cleaning: 
+## Data Cleaning: 
 Processed and cleaned the dataset to handle missing values, duplicates, and inconsistencies.
 # Exploratory Data Analysis (EDA):
 Conducted EDA to understand the data distribution, relationships, and trends.
